@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="corregido1.0" id="FE01A47C-FAED-9B26-842C-2380EB584CC8" version="3.5">
+<createdBy>FAUSTO</createdBy>
+<createdTime>2016-05-05 22:12:27 UTC</createdTime>
+<ownerDesignName>corregido1.0</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>FE01A47C-FAED-9B26-842C-2380EB584CC8</designId>
+</OSDM_Design>
